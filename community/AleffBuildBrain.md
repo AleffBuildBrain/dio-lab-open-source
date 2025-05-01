@@ -1,8 +1,7 @@
 <h1  style="color:#B22222; text-align: center"> Aleff S. Vilimas</h1>
 
-<h5>Hello, </h5>
 <h5>"A melhor maneira de prever o futuro é criá-lo."</h5>
-<h5 style="text-align: right">By: Peter Drucker</h5>
+<h5 style="text-align: right">Peter Drucker</h5>
 
 <h2  style="color:#4A773C; text-align: center"> Contato</h2>
 

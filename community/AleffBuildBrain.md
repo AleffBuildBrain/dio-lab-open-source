@@ -1,8 +1,7 @@
 <h1  style="color:#B22222; text-align: center"> Aleff S. Vilimas</h1>
 
-<h5>Hello, </h5>
 <h5>"A melhor maneira de prever o futuro é criá-lo."</h5>
-<h5 style="text-align: right">By: Peter Drucker</h5>
+<h5 style="text-align: right">Peter Drucker</h5>
 
 <h2  style="color:#4A773C; text-align: center"> Contato</h2>
 
@@ -10,7 +9,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511920072351)
 [![Gmail](https://img.shields.io/badge/Gmail-F5F5F5?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aleffvilimas@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO.ME-341539?style=for-the-badge)](https://web.dio.me/users/lelealeff/)
-[![Instagram](https://img.shields.io/badge/-Instagram-B22222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
+[![Instagram](https://img.shields.io/badge/-Instagram-B22222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleffs.vilimas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AleffBuildBrain)
 
 <h2  style="color:#4A773C; text-align: center">Habilidades</h2>
